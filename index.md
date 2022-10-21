@@ -1,6 +1,6 @@
 # **Fan Hu**
 
-[[中文版]](ch_index.md) - [[Github]](https://github.com/fly-dragon211)
+[[中文版]](zh_index.md) - [[Github]](https://github.com/fly-dragon211)
 
 ## **About Me**
 
